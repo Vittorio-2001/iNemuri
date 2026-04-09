@@ -1,6 +1,6 @@
 ## ⏰ iNemuri
 
-![Icon](./Icon.png)
+![Icon](./iNemuri.png)
 
 ## 📱 Overview
 iNemuri is an iOS application built with SwiftUI and Metal, designed to provide a high-performance, minimalist alarm experience with a focus on fluid visual feedback and native audio integration.
