@@ -1,4 +1,4 @@
-Frequence
+iNemuri
 
 An app that provides a streamlined alarm experience by integrating a native-style audio selection system with high-performance Metal rendering. It demonstrates the seamless implementation of local sound management and a minimalist SwiftUI interface designed for both reliability and visual fluidness.
 
