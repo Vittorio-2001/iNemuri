@@ -5,19 +5,18 @@
 ## 📱 Overview
 iNemuri is an iOS application built with SwiftUI and Metal, designed to provide a high-performance, minimalist alarm experience with a focus on fluid visual feedback and native audio integration.
 The app combines the reliability of a daily utility with advanced rendering techniques, offering a premium feel through smooth transitions and a curated selection of local sounds.
-+1
 
 ## ✨ Features
 
-⏰ Reliable Alarm System: Create and manage multiple alarms with a focus on stability and ease of use.
+- ⏰ Reliable Alarm System: Create and manage multiple alarms with a focus on stability and ease of use.
 
-🔊 Custom Sound Selection: Choose from high-quality local audio files with real-time preview functionality.
+- 🔊 Custom Sound Selection: Choose from high-quality local audio files with real-time preview functionality.
 
-⚡ Metal-Powered UI: Leverages the Metal framework for high-performance visual elements and fluid animations.
+- ⚡ Metal-Powered UI: Leverages the Metal framework for high-performance visual elements and fluid animations.
 
-🎨 Minimalist Design: A clean, "Apple-style" interface that prioritizes clarity and intuitive navigation.
+- 🎨 Minimalist Design: A clean, "Apple-style" interface that prioritizes clarity and intuitive navigation.
 
-🛠️ Seamless Integration: Built with an incremental architecture that ensures smooth performance across the iOS ecosystem.
+- 🛠️ Seamless Integration: Built with an incremental architecture that ensures smooth performance across the iOS ecosystem.
 
 ## 📦 Technologies Used
 
