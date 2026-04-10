@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 426" width="1280" height="426">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@600&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background bianco -->
+  <rect width="1280" height="426" rx="18" fill="#ffffff"/>
+
+  <!-- Bordo sottile stile GitHub -->
+  <rect x="1" y="1" width="1278" height="424" rx="17" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+
+  <!-- Icona app -->
+  <circle cx="460" cy="213" r="110" fill="#C94040"/>
+  <circle cx="446" cy="162" r="10" fill="white"/>
+  <line x1="428" y1="242" x2="470" y2="194" stroke="white" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Nome app -->
+  <text x="610" y="248" font-family="DM Sans, -apple-system, sans-serif" font-size="96" font-weight="600" fill="#1a1a1a" letter-spacing="-4">iNemuri</text>
+
+</svg>
